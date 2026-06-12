@@ -1,4 +1,4 @@
-# 💳 Credit Card Transaction & Customer Insights Dashboard
+# 💳 Credit Card Transaction Report
 
 ## 📌 Project Overview
 
