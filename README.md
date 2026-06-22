@@ -9,6 +9,10 @@ The dashboard combines transaction and customer datasets to provide a 360-degree
 By leveraging interactive visualizations, KPIs, and dynamic filters, the dashboard transforms raw financial data into meaningful insights that support strategic planning and performance monitoring.
 
 ---
+📊 Dataset Source
+
+The dataset used in this project was sourced from a publicly available GitHub repository and contains 10,000+ customer and credit card transaction records. The data includes customer demographics, transaction details, card categories, spending behavior, and revenue-related metrics used for dashboard development and business analysis in Power BI.
+---
 
 ## 🎯 Project Objectives
 
